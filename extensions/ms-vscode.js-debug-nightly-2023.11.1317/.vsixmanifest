@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="js-debug-nightly" Version="2023.11.717" Publisher="ms-vscode" />
+			<Identity Language="en-US" Id="js-debug-nightly" Version="2023.11.1317" Publisher="ms-vscode" />
 			<DisplayName>JavaScript Debugger (Nightly)</DisplayName>
 			<Description xml:space="preserve">An extension for debugging Node.js programs and Chrome.</Description>
 			<Tags>pwa,javascript,node,chrome,debugger,keybindings,debuggers,wat,WebAssembly Text Format,__ext_wat,__ext_wasm</Tags>

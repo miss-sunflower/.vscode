@@ -1,7 +1,7 @@
 {
 	"name": "js-debug-nightly",
 	"displayName": "JavaScript Debugger (Nightly)",
-	"version": "2023.11.717",
+	"version": "2023.11.1317",
 	"publisher": "ms-vscode",
 	"author": {
 		"name": "Microsoft Corporation"
@@ -77,7 +77,7 @@
 		"source-map-support": "^0.5.21",
 		"split2": "^4.2.0",
 		"to-absolute-glob": "^2.0.2",
-		"vscode-tas-client": "^0.1.63",
+		"vscode-tas-client": "^0.1.75",
 		"ws": "^8.14.2"
 	},
 	"prettier": {
@@ -14177,7 +14177,7 @@
 		"isApplicationScoped": false,
 		"updated": true,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1699442982328,
+		"installedTimestamp": 1700407972621,
 		"preRelease": false
 	}
 }
